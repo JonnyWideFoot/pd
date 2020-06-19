@@ -1,6 +1,0 @@
-from pd import *
-ctimeseed()
-info()
-timer()
-
-

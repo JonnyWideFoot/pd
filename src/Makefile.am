@@ -1,1 +1,0 @@
-SUBDIRS = mmlib pd mods

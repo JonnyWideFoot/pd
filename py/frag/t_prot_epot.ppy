@@ -1,7 +1,0 @@
-
-
-epot_short(ff)
-epot_summary(ff)
-epot_byatom(ff)
-epot_detailed(ff)
-
